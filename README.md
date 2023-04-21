@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
   - [Author](#author)
 
 ## Overview
@@ -22,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [QR Code (Repo)](https://github.com/wemersonqueiroz/fem-qr-code-card)
+- Live Site URL: [QR-Code (Vercel)](https://fem-qr-code-card.vercel.app/)
 
 ## My process
 
@@ -32,12 +31,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - TailwindCSS CDN
 - Mobile-first workflow
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
 
 ## Author
 
